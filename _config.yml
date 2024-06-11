@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-FR"
-title                    : "CHEN Wei / Site Title"
+title                    : "CHEN Wei"
 title_separator          : "-"
 name                     : &name "CHEN Wei"
 description              : &description "personal description"
@@ -57,7 +57,7 @@ author:
   # keybase          : # Username
   # instagram        : # Username
   # lastfm           : # Username
-  linkedin         : "wei-chen" # Username
+  linkedin         : "wei chen" # Username
   # mastodon         : # URL
   # medium           : # URL
   # pinterest        : # Username
