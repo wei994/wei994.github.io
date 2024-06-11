@@ -19,3 +19,4 @@ I am fluent in English (B2) and Chinese (native), with basic proficiency in Fren
 
 Thank you for visiting my website, and I invite you to explore my projects, research, and experiences in greater detail.
 
+If you have any questions about me, welcome to contact me by e-mail.
