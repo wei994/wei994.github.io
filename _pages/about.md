@@ -19,4 +19,4 @@ Thank you for visiting my website, and I invite you to explore my projects, rese
 
 You can find  my CV here ：[CHEN Wei's Curriculum Vitae](../assets/CV_Wei_CHEN.pdf)
 
-If you have any questions about me, welcome to contact me by e-mail[Email](wchen5988@gmail.com).
+If you have any questions about me, welcome to contact me by [Email](mailto:wchen5988@gmail.com).
