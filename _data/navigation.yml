@@ -21,6 +21,6 @@ main:
   # - title: "Project"
   #   url:/project/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+    # url: /markdown/
 
