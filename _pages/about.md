@@ -13,7 +13,7 @@ I am pursuing a Master of Science in Signal and Image Processing at Ecole Centra
 
 My research interests include computer vision, machine learning, signal processing, optimization, and data analysis.
 
-I am fluent in English (B2) and Chinese (native), with basic proficiency in French (A2). My technical skills include MATLAB, Python, Anaconda, CAD, SolidWorks, LaTeX, C++, and C. Outside of academics, I have a passion for photography, capturing moments and scenes that inspire me.
+I am fluent in English and Chinese (native), with basic proficiency in French (A2). My technical skills include MATLAB, Python, Anaconda, CAD, SolidWorks, LaTeX, C++, and C. Outside of academics, I have a passion for photography, capturing moments and scenes that inspire me.
 
 Thank you for visiting my website, and I invite you to explore my projects, research, and experiences in greater detail.
 
