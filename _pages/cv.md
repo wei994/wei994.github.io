@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* MSc in Signal and Image Processing, Ecole Centrale de Nantes 2024(expected).
+* M.S. in Signal and Image Processing, Ecole Centrale de Nantes 2024(expected).
 * B.S. in Mechatronics Engineering, Harbin Institute of Technology 2022.
 
 Work experience
