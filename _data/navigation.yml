@@ -18,8 +18,8 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Project"
-    url:/project/
+  # - title: "Project"
+  #   url:/project/
     
   - title: "Guide"
     url: /markdown/
